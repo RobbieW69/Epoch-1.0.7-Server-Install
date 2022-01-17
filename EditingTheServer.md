@@ -57,7 +57,7 @@ then right BELOW it add:
 ```c
 #include "\z\addons\dayz_server\build.sqf";//build custom map addons before player setup
 ```
-* Now go to the 'build.sqf' script and type `execVM "\z\addons\dayz_server\custom_buildings\BalotaAddons.sqf";` Restart your server and the map edits you made will work.
+* Now go to the 'build.sqf' script and type `execVM "\z\addons\dayz_server\custom_buildings\BalotaAddons.sqf";` Restart your server and the map edits you made will work. Note any other addons you want to add you need to keep adding the `execVM "\z\addons\dayz_server\custom_buildings\myCustomMapBuildingScript.sqf";` lines to the build.sqf.
 
 # Third Party Mods
 For example you might see that you want Wicked AI mod on your server.
