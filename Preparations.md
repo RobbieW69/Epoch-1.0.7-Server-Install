@@ -18,7 +18,7 @@ You will want to restart after finishing these.
 
 * Download and install [Visual Studio Code](https://code.visualstudio.com/docs/?dv=win) and [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.1.9.3/npp.8.1.9.3.Installer.x64.exe) we will be using both!
 
-*Download the [Setup Guide Files folder](https://drive.google.com/drive/folders/1ln5BWdNLfw1AcWfyHHCORErb2O-bQwIo) from the google drive to follow along with.
+*Download the [Setup Guide Files folder](https://drive.google.com/drive/folders/1ln5BWdNLfw1AcWfyHHCORErb2O-bQwIo) (Start.bat ect) from the google drive to follow along with.
 ## Misc
 * Open your Network Configuration in your browser: We need to Port Forward 2302-2307; [How To Port Foward](https://www.hellotech.com/guide/for/how-to-port-forward), it's only necessary if you are planning on hosting from this machine, as some people may only want a test server. Remember you need to forward the ports for both TCP and UDP.
 
